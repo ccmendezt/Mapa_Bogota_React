@@ -1,5 +1,7 @@
 # Mapa Bogota Edificio ESRI
- Proyecto hecho en React donde se muestra el mapa de Bogotá centrado en el Edificio de ESRI Colombia en Chicó utilizando el sdk de Javascript de ArcGIS.
+Proyecto hecho en React donde se muestra el mapa de Bogotá centrado en el Edificio de ESRI Colombia en Chicó utilizando el sdk de Javascript de ArcGIS.
+<br />
+__Realizado por:__ _Cristian Camilo Méndez Trujillo_
 ## Proyecto Desplegado en Render
 _A continuación, encontrará el enlace del proyecto descrito desplegado en Render completamente funcional:_ <br />
 Enlace: https://mapa-bogota-react.onrender.com/
@@ -13,3 +15,4 @@ Enlace: https://mapa-bogota-react.onrender.com/
 
 ### Notas Finales
 En la línea 17 del archivo main.jsx se estableció el zoom en 12 para que se apreciara el mapa de Bogotá, pero si se establece el zoom en 20 se puede apreciar que efectivamente el mapa está centrado en el edificio de ESRI Colombia ubicado en Chicó.
+
