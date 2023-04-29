@@ -7,7 +7,7 @@ _A continuación, encontrará el enlace del proyecto descrito desplegado en Rend
 Enlace: https://mapa-bogota-react.onrender.com/
 ## Instrucciones de Ejecución
 1. Descargar y descomprimir el .zip del proyecto
-2. Abrir el proyecto en su IDE, de preferencia se recomienta _Visual Studio Code_
+2. Abrir el proyecto en su IDE, de preferencia se recomienda _Visual Studio Code_
 3. Abrir una nueva terminal en la ruta del proyecto
 4. Ejectuar el comando **npm install** para instalar los paquetes y dependencias necesarias para ejecutar el proyecto
 5. Luego de instalar todos los paquetes, ejecutar el comando **npm run dev**
